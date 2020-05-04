@@ -4,6 +4,6 @@ Html file that have been used for real email campaign. Design was created with u
 
 Estimation for end to end - 1 working day, including communication with designer.
 
-Use this link to preview email template [https://pesukarhutg.github.io/email-onlineCourse/](https://pesukarhutg.github.io/email-onlineCourse/)
+Use this link to preview email template https://pesukarhutg.github.io/email-onlineCourse/
 
-![](https://github.com/PesukarhuTG/email-onlineCourse/blob/master/assets/design-preview.jpg)
+[![Preview](https://github.com/PesukarhuTG/email-onlineCourse/blob/master/assets/design-preview.jpg)](https://pesukarhutg.github.io/email-onlineCourse/)
